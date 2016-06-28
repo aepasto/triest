@@ -2,7 +2,9 @@
 
 This repository contains the code for the paper *TRIÈST: Counting Local and
 Global Triangles in Fully-dynamic Streams with Fixed Memory Size* accepted for
-publication at [ACM KDD'16](http://www.kdd.org/kdd2016/).
+publication at [ACM KDD'16](http://www.kdd.org/kdd2016/). An extended version of
+the paper is available from [arXiv
+(1602/07424)](https://arxiv.org/abs/1602.07424).
 
 ## License
 
@@ -22,9 +24,9 @@ limitations under the License.
 
 ### Additional terms
 
-In addition to the terms of the Apache License, you are required to cite the
-aforementioned paper if you use this code (or derivatives) for a scientific
-work. You can use the following BiBTeX:
+In addition to the terms of the Apache License, Version 2.0, you are required to
+cite the aforementioned paper if you use this code (or derivatives) for a
+scientific work. You can use the following BiBTeX:
 
 ```bibtex
 @inproceedings{DeStefaniERU16,

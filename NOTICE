@@ -1,6 +1,22 @@
- TRIÈST: Counting Local and Global Triangles in Fully-dynamic Streams with Fixed Memory Size
+TRIÈST: Counting Local and Global Triangles in Fully-dynamic Streams with Fixed Memory Size
 
 Copyright 2016 Lorenzo De Stefani, Alessandro Epasto, Matteo Riondato, Eli Upfal
 
 This product includes software developed by Lorenzo De Stefani, Alessandro
 Epasto, Matteo Riondato, Eli Upfal.
+
+In addition to the terms of the Apache License, Version 2.0, you are required to
+cite the following paper if you use TRIÈST code (or derivatives) in/for a
+scientific work. You may use the following BiBTeX:
+
+@inproceedings{DeStefaniERU16,
+	Author = {De Stefani, Lorenzo and Epasto, Alessandro and Riondato, Matteo
+		and Upfal, Eli},
+	Booktitle = {Proceedings of the 22nd ACM SIGKDD International Conference
+		on Knowledge Discovery and Data Mining},
+	Publisher = {ACM},
+	Series = {KDD '16},
+	Title = {{TRI\`{E}ST}: Counting Local and Global Triangles in Fully-dynamic
+		Streams with Fixed Memory Size},
+	Year = {2016}
+}
